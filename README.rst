@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
-=======================================
+## Archived
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+The current doc site for Breadcrumbs is available at: https://publish.obsidian.md/breadcrumbs-docs
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+The repo can be found at: https://github.com/SkepticMystic/breadcrumbs-docs
+  
